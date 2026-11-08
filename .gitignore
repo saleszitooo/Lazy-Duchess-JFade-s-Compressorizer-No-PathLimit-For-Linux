@@ -1,0 +1,9 @@
+# build outputs
+/dbpf-recompress
+/build/
+*.AppImage
+squashfs-root/
+
+# python
+__pycache__/
+*.pyc

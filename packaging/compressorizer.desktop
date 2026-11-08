@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=The Compressorizer
+Comment=Compress The Sims 2 .package files
+Exec=AppRun %F
+Icon=compressorizer
+Terminal=false
+Categories=Utility;Archiving;
